@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TransportesGest.Form1" Collapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAAAAAACAABAAAQACAAARCgAAQAACAEAAEABABBAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransportesGest.Mercadoria">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEACAABAAAAAAAAAAABAAAAAQAAAAAAQAAAAEAA=</HashCode>
+      <FileName>Mercadoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransportesGest.Program" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransportesGest.Taxi">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAgQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Taxi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransportesGest.Transporte">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AECQAABEkAAABABEAAAIAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transporte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransportesGest.TransportePublico">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAQAAQAAAAFAAAAAQAAAAAAAAAAgAAAAIAA=</HashCode>
+      <FileName>TransportePublico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransportesGest.Properties.Resources" Collapsed="true">
+    <Position X="12.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransportesGest.Properties.Settings" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

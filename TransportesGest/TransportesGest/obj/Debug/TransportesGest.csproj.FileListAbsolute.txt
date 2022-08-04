@@ -1,0 +1,10 @@
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\TransportesGest\TransportesGest\bin\Debug\TransportesGest.exe.config
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\TransportesGest\TransportesGest\bin\Debug\TransportesGest.exe
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\TransportesGest\TransportesGest\bin\Debug\TransportesGest.pdb
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\TransportesGest\TransportesGest\obj\Debug\TransportesGest.csprojResolveAssemblyReference.cache
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\TransportesGest\TransportesGest\obj\Debug\TransportesGest.Properties.Resources.resources
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\TransportesGest\TransportesGest\obj\Debug\TransportesGest.csproj.GenerateResource.Cache
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\TransportesGest\TransportesGest\obj\Debug\TransportesGest.exe
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\TransportesGest\TransportesGest\obj\Debug\TransportesGest.pdb
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\TransportesGest\TransportesGest\obj\Debug\TransportesGest.Form2.resources
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\TransportesGest\TransportesGest\obj\Debug\TransportesGest.Form1.resources

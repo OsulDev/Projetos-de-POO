@@ -1,0 +1,17 @@
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\GestaoEmpregados\GestaoEmpregados\bin\Debug\GestaoEmpregados.exe.config
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\GestaoEmpregados\GestaoEmpregados\bin\Debug\GestaoEmpregados.exe
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\GestaoEmpregados\GestaoEmpregados\bin\Debug\GestaoEmpregados.pdb
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\GestaoEmpregados\GestaoEmpregados\obj\Debug\GestaoEmpregados.Properties.Resources.resources
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\GestaoEmpregados\GestaoEmpregados\obj\Debug\GestaoEmpregados.csproj.GenerateResource.Cache
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\GestaoEmpregados\GestaoEmpregados\obj\Debug\GestaoEmpregados.exe
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\GestaoEmpregados\GestaoEmpregados\obj\Debug\GestaoEmpregados.pdb
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\GestaoEmpregados\GestaoEmpregados\obj\Debug\GestaoEmpregados.Form1.resources
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\GestaoEmpregados\GestaoEmpregados\obj\Debug\GestaoEmpregados.Form_Emp.resources
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\GestaoEmpregados\GestaoEmpregados\obj\Debug\GestaoEmpregados.Form_Administrador.resources
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\GestaoEmpregados\GestaoEmpregados\obj\Debug\GestaoEmpregados.Form_Engenheiro.resources
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\GestaoEmpregados\GestaoEmpregados\obj\Debug\GestaoEmpregados.Form_Gestor.resources
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\GestaoEmpregados\GestaoEmpregados\obj\Debug\GestaoEmpregados.FormIni.resources
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\GestaoEmpregados\GestaoEmpregados\obj\Debug\GestaoEmpregados.Form_tabela.resources
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\GestaoEmpregados\GestaoEmpregados\obj\Debug\GestaoEmpregados.Form_Jardinheiro.resources
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\GestaoEmpregados\GestaoEmpregados\obj\Debug\GestaoEmpregados.csproj.AssemblyReference.cache
+C:\Users\joaoe\OneDrive\Ambiente de Trabalho\C#\GestaoEmpregados\GestaoEmpregados\obj\Debug\GestaoEmpregados.csproj.CoreCompileInputs.cache

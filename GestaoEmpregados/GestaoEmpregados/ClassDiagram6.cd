@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GestaoEmpregados.Administrador" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAEABAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Administrador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestaoEmpregados.Empregado" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAgAAAAIAEAgAAAAIgAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Empregado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestaoEmpregados.engenheiro" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAEAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engenheiro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestaoEmpregados.Form_Administrador" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACAAAABAAACAAACTAAAAACEAIAhAAABAAAA=</HashCode>
+      <FileName>Form_Administrador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestaoEmpregados.Form_Emp" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAgQAACQAAAAAAACQAACDAIAAAAAAEAgAAAhAAAQ=</HashCode>
+      <FileName>Form_Emp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestaoEmpregados.Form_Engenheiro" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgQAAKAAQAAAAACAAACDIAgAAAAAgAgAAABABBA=</HashCode>
+      <FileName>Form_Engenheiro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestaoEmpregados.Form_Gestor" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAQAACAQAAAQACCAAADDgAAAAAAAAAgAQAAAAAA=</HashCode>
+      <FileName>Form_Gestor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestaoEmpregados.Form1" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAQAwAQECAAQAAAAACAKAASACIBAAAAAExGQABAACU=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestaoEmpregados.Gestor" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gestor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestaoEmpregados.Program" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestaoEmpregados.Properties.Resources" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestaoEmpregados.Properties.Settings" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

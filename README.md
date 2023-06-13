@@ -1,4 +1,4 @@
-# School Projet
+# School Project
 These were two projects I did in school when I was learning how to create applications in C# and Windows Forms.
 
 ## First project:
